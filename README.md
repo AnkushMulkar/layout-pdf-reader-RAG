@@ -2,7 +2,7 @@
 
 LLM Sherpa provides strategic APIs to accelerate large language model (LLM) use cases.
 
-## LayoutPDFReader
+## LayoutPDFReader:
 
 Most PDF to text parsers do not provide layout information. Often times, even the sentences are split with arbritrary CR/LFs making it very difficult to find paragraph boundaries. This poses various challenges in chunking and adding long running contextual information such as section header to the passages while indexing/vectorizing PDFs for LLM applications such as retrieval augmented generation (RAG). 
 
